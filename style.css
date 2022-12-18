@@ -1,3 +1,7 @@
+*{
+    margin:auto;
+}
+
 html,
         body,
         .view {
@@ -16,17 +20,17 @@ html,
         }
         
         .top-nav-collapse {
-            background-color: #614ad3;
+            background-color: #fd5f00;
         }
         
         footer.page-footer {
-            background-color: #614ad3;
+            background-color: #fd5f00;
             margin-top: 2rem;
         }
         
         @media only screen and (max-width: 768px) {
             .navbar {
-                background-color: #121b74;
+                background-color: #005792;
             }
         }
         /*Call to action*/
@@ -47,5 +51,5 @@ html,
         #contact .fa {
             font-size: 2.5rem;
             margin-bottom: 1rem;
-            color: #121b74;
+            color: #13334c;
         }
